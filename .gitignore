@@ -1,1 +1,4 @@
 /goerli/addManufacturerEnrollment
+/goerli/*.json
+/sepolia/manufacturerEnrollments
+/sepolia/*.json
